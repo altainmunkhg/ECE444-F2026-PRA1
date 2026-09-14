@@ -1,1 +1,1 @@
-print("3 years at UofT")
+print("Altainmunkh")
