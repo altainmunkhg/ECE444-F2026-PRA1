@@ -6,4 +6,9 @@ def reversed(num):
         num = num // 10
     return reversed_num
 
+def formatter(num):
+    return bin(num), oct(num)
+
+
 print(reversed(1234))
+print(formatter(10))
